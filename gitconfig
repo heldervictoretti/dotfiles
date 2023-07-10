@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = heldervictoretti@£yahoo.com.br
+	name = Helder Victoretti
